@@ -205,6 +205,11 @@ color: #fff !important;
 	p.agileinfo {
 		letter-spacing: 1px;
 	}
+	p.word {
+	font-size: 0.2em;
+	margin-top: 25px;
+	text-align: center;
+	}
 }
 @media (max-width: 736px){
 	.w3layouts-newsletter h2 {
@@ -225,6 +230,11 @@ color: #fff !important;
 		font-size: 0.2em;
 		margin-top: 2em;
 	}
+	p.word {
+	font-size: 0.2em;
+	margin-top: 25px;
+	text-align: center;
+	}
 }
 @media (max-width: 667px){
 	.demo-1 .main-title {
@@ -243,6 +253,11 @@ color: #fff !important;
 	p.agileinfo {
 		letter-spacing: 0px;
 	}
+	p.word {
+	font-size: 0.2em;
+	margin-top: 25px;
+	text-align: center;
+	}
 }
 @media (max-width: 568px){
 	.demo-1 .main-title {
@@ -250,6 +265,11 @@ color: #fff !important;
 	}
 	p.agileinfo {
 		margin-top: 1.5em;
+	}
+	p.word {
+	font-size: 0.2em;
+	margin-top: 25px;
+	text-align: center;
 	}
 }
 @media (max-width: 414px){
@@ -268,6 +288,11 @@ color: #fff !important;
 	.w3layouts-newsletter input[type="submit"] {
 		width: 28%;
 	}
+	p.word {
+	font-size: 0.2em;
+	margin-top: 25px;
+	text-align: center;
+	}
 }
 @media (max-width: 384px){
 	.w3layouts-newsletter h2 {
@@ -276,6 +301,11 @@ color: #fff !important;
 	h1 {
 		letter-spacing: 3px;
 	}
+	p.word {
+	font-size: 0.2em;
+	margin-top: 25px;
+	text-align: center;
+	}
 }
 @media (max-width: 320px){	
 	.w3layouts-newsletter input[type="email"] {
@@ -283,5 +313,10 @@ color: #fff !important;
 	}
 	.w3layouts-newsletter input[type="submit"] {
 		width: 30%;
+	}
+	p.word {
+	font-size: 0.2em;
+	margin-top: 25px;
+	text-align: center;
 	}
 }
